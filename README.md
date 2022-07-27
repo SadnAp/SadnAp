@@ -1,9 +1,7 @@
-### Hi there 👋
 
 ### About me
-An **MUG** and **AVG** player from China.<br>
-~~前后端不会,是伪coder~~<br>
-是**死宅**
-### Contact me
+Otaku from CN.<br>
+Poor in coding<br>
+### Contacts
 [Telegram](https://t.me/SadnApChannel)<br>
 <business@sadnapma.cf>
