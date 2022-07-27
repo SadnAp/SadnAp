@@ -1,5 +1,4 @@
-
-### About me
+### About
 Otaku from CN.<br>
 Poor in coding<br>
 ### Contacts
